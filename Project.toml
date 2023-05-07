@@ -1,0 +1,13 @@
+name = "Dilutions"
+uuid = "71290797-3220-41e2-9b88-811c27d5df6c"
+authors = ["Thomas Poulsen"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.6"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
